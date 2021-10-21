@@ -5,3 +5,4 @@ Add multiple files
 good night
 
 check simple push for wi7
+check pull from remote master to local for wi8
